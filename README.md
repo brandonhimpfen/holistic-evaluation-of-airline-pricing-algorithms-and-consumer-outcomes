@@ -1,1 +1,1 @@
-# holistic-evaluation-of-airline-pricing-algorithms-and-consumer-outcomes
+# Holistic Evaluation of Airline Pricing Algorithms and Consumer Outcomes 
